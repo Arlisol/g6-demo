@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@antv/g6": "3.1.5",
+    "@antv/g6": "^3.2.4",
     "antd": "^3.15.0",
     "classnames": "^2.2.6",
-    "styled-components": "^4.4.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "styled-components": "^4.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
